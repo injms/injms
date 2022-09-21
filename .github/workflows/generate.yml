@@ -17,6 +17,8 @@ jobs:
         with:
           node-version-file: ".nvmrc"
       - run: "node index.mjs"
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: "🌤 Update weather"
