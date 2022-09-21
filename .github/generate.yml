@@ -1,0 +1,20 @@
+name: Update readme
+
+on:
+  push:
+  schedule:
+    - cron: "*/15 * * * *" # Every quarter of an hour
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version-file: ".nvmrc"
+      - run: "node index.mjs"
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🌤 Update weather"
+          file_pattern: "readme.md"
