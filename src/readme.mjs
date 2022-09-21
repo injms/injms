@@ -1,5 +1,5 @@
 export default ({
-  guildfordWather = '',
+  guildfordWeather = '',
   geelongWeather = '',
 }) => `
 # Hi, I'm Ian.
@@ -10,7 +10,7 @@ Sometimes big things - currently I'm lead frontend developer for [GOV.UK].
 
 Sometimes small things - like [Squarify](squarify), [yaled], and any attempt to _once again try and consistently blog_.
 
-Based near [${guildfordWather} Guildford][weather_in_guildford] 🇬🇧 for the moment, I'm about to move to [${geelongWeather} Geelong][weather_in_geelong] 🇦🇺.
+Based near [${guildfordWeather} Guildford][weather_in_guildford] 🇬🇧 for the moment, I'm about to move to [${geelongWeather} Geelong][weather_in_geelong] 🇦🇺.
 
 My work and personal project code is here on [GitHub][github], my CV is on [LinkedIn][linkedin], and some photos are on [Instagram][instagram]. You should take a look.
 
