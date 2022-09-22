@@ -8,7 +8,7 @@ And I make things for the web.
 
 Sometimes big things - currently I'm lead frontend developer for [GOV.UK].
 
-Sometimes small things - like [Squarify](squarify), [yaled], and any attempt to _once again try and consistently blog_.
+Sometimes small things - like [Squarify][squarify], [yaled], and any attempt to _once again try and consistently blog_.
 
 Based near [${guildfordWeather} Guildford][weather_in_guildford] 🇬🇧 for the moment, I'm about to move to [${geelongWeather} Geelong][weather_in_geelong] 🇦🇺.
 
