@@ -23,3 +23,4 @@ jobs:
         with:
           commit_message: "🌤 Update weather"
           file_pattern: "readme.md"
+          commit_author: github-actions[bot] <github-actions[bot]@users.noreply.github.com>
