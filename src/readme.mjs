@@ -8,7 +8,7 @@ And I make things for the web.
 
 Sometimes big things - currently I'm lead frontend developer for [GOV.UK].
 
-Sometimes small things - like [Squarify][squarify], [yaled], and any attempt to _once again try and consistently blog_.
+Sometimes small things - like a [Carbon Gizmo][carbon_gizmo], [Squarify][squarify], or any attempt to _once again try and consistently blog_.
 
 Based near [${guildfordWeather} Guildford][weather_in_guildford] 🇬🇧 for the moment, I'm about to move to [${geelongWeather} Geelong][weather_in_geelong] 🇦🇺.
 
@@ -17,7 +17,7 @@ My work and personal project code is here on [GitHub][github], my CV is on [Link
 [weather_in_guildford]: https://openweathermap.org/city/2647793
 [weather_in_geelong]: https://openweathermap.org/city/2165798
 [squarify]: https://squarify.inj.ms/
-[yaled]: https://github.com/injms/yaled
+[carbon_gizmo]: https://carbon-gizmo.wwf.org.uk/
 [GOV.UK]: https://www.gov.uk
 [github]: https://inj.ms/github
 [linkedin]: https://inj.ms/linkedin
