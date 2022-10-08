@@ -6,7 +6,7 @@ Sometimes big things - currently I'm lead frontend developer for [GOV.UK].
 
 Sometimes small things - like a [Carbon Gizmo][carbon_gizmo], [Squarify][squarify], or any attempt to _once again try and consistently blog_.
 
-Based near [cloudy Guildford][weather_in_guildford] 🇬🇧 for the moment, I'm about to move to [bright Geelong][weather_in_geelong] 🇦🇺.
+Based near [cloudy Guildford][weather_in_guildford] 🇬🇧 for the moment, I'm about to move to [rainy Geelong][weather_in_geelong] 🇦🇺.
 
 My work and personal project code is here on [GitHub][github], my CV is on [LinkedIn][linkedin], and some photos are on [Instagram][instagram]. You should take a look.
 
