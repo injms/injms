@@ -6,11 +6,11 @@ export default ({
 
 And I make things for the web.
 
-Sometimes big things - currently I'm lead frontend developer for [GOV.UK].
+Sometimes big things - for the past four years I worked at GDS, mainly on [GOV.UK].
 
 Sometimes small things - like a [Carbon Gizmo][carbon_gizmo], [Squarify][squarify], or any attempt to _once again try and consistently blog_.
 
-Based near [${guildfordWeather} Guildford][weather_in_guildford] 🇬🇧 for the moment, I'm about to move to [${geelongWeather} Geelong][weather_in_geelong] 🇦🇺.
+I've just moved from [${guildfordWeather} Guildford][weather_in_guildford] 🇬🇧 to [${geelongWeather} Geelong][weather_in_geelong] 🇦🇺.
 
 My work and personal project code is here on [GitHub][github], my CV is on [LinkedIn][linkedin], and some photos are on [Instagram][instagram]. You should take a look.
 
