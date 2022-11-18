@@ -23,8 +23,25 @@ const getWeather = async ({ latitude, longitude, apiKey }) => {
     Tornado: 'really really windy',
   }
 
+  const idDictionary = {
+    '500': 'drizzly',
+    '501': 'rainy',
+    '502': 'chucking-it-down',
+    '503': 'bucketing-it-down',
+    '504': 'extremely rainy',
+    '511': 'cold and rainy',
+    '520': 'slightly showery',
+    '521': 'showery',
+    '522': 'very showery',
+    '531': 'very very showery',
+    '801': 'slightly cloudy',
+    '802': 'cloudy',
+    '803': 'moderately cloudy',
+    '804': 'very cloudy',
+  }
+
   return {
-    currently: dictionary[weather?.[0].main],
+    currently: idDictionary[weather[0].id.toString()] || dictionary[weather[0].main]
   }
 }
 
