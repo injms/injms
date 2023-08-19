@@ -6,7 +6,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "*/20 * * * *" # Every twenty minutes
+    - cron: "*/60 * * * *" # Every twenty minutes
 
 jobs:
   generate:
