@@ -6,7 +6,7 @@ Sometimes big things - for the past four years I worked at GDS, mainly on [GOV.U
 
 Sometimes small things - like a [Carbon Gizmo][carbon_gizmo], [Squarify][squarify], or any attempt to _once again try and consistently blog_.
 
-I've just moved from [bright Guildford][weather_in_guildford] 🇬🇧 to [cloudy Geelong][weather_in_geelong] 🇦🇺.
+I've just moved from [very cloudy Guildford][weather_in_guildford] 🇬🇧 to [cloudy Geelong][weather_in_geelong] 🇦🇺.
 
 My work and personal project code is here on [GitHub][github], my CV is on [LinkedIn][linkedin], and some photos are on [Instagram][instagram]. You should take a look.
 
